@@ -1,4 +1,0 @@
-this
-is 
-aiml-b
-section
